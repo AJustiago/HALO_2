@@ -1,0 +1,5 @@
+.venv-iot
+model_Resnet.h5
+model_Resnet.keras
+test.jpg
+dummy_data.json

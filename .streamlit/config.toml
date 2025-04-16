@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#81C784"                # Soft leaf green (buttons/accents)
+backgroundColor = "#1B1F1B"             # Dark mossy background
+secondaryBackgroundColor = "#2E3B2E"    # Slightly lighter greenish container
+textColor = "#E8F5E9"                   # Pale green-white text
+font = "sans serif"
