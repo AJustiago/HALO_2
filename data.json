@@ -12,7 +12,7 @@
     "timestamp": "2025-04-12T15:00:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-11T15:12:00"
   },
   {
@@ -36,7 +36,7 @@
     "timestamp": "2025-04-15T01:36:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-13T23:56:00"
   },
   {
@@ -52,7 +52,7 @@
     "timestamp": "2025-04-15T10:39:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-11T18:27:00"
   },
   {
@@ -96,7 +96,7 @@
     "timestamp": "2025-04-14T18:38:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-15T09:08:00"
   },
   {
@@ -104,7 +104,7 @@
     "timestamp": "2025-04-13T20:26:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-12T07:33:00"
   },
   {
@@ -112,7 +112,7 @@
     "timestamp": "2025-04-11T11:00:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-15T18:33:00"
   },
   {
@@ -120,7 +120,7 @@
     "timestamp": "2025-04-15T07:30:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-15T07:26:00"
   },
   {
@@ -136,7 +136,7 @@
     "timestamp": "2025-04-14T16:52:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-14T02:30:00"
   },
   {
@@ -144,7 +144,7 @@
     "timestamp": "2025-04-13T21:20:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-15T05:54:00"
   },
   {
@@ -160,7 +160,7 @@
     "timestamp": "2025-04-11T17:15:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-14T07:13:00"
   },
   {
@@ -168,7 +168,7 @@
     "timestamp": "2025-04-11T12:15:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-14T23:37:00"
   },
   {
@@ -176,7 +176,7 @@
     "timestamp": "2025-04-13T02:31:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-14T01:21:00"
   },
   {
@@ -188,7 +188,7 @@
     "timestamp": "2025-04-14T20:17:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-14T23:44:00"
   },
   {
@@ -216,7 +216,7 @@
     "timestamp": "2025-04-16T00:17:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-13T14:31:00"
   },
   {
@@ -244,7 +244,7 @@
     "timestamp": "2025-04-15T18:51:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-13T21:04:00"
   },
   {
@@ -260,7 +260,7 @@
     "timestamp": "2025-04-13T09:50:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-11T15:53:00"
   },
   {
@@ -280,7 +280,7 @@
     "timestamp": "2025-04-15T18:00:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-12T07:55:00"
   },
   {
@@ -348,15 +348,15 @@
     "timestamp": "2025-04-13T23:13:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-11T15:14:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-13T16:44:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-12T20:39:00"
   },
   {
@@ -364,7 +364,7 @@
     "timestamp": "2025-04-14T08:50:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-11T09:40:00"
   },
   {
@@ -388,7 +388,7 @@
     "timestamp": "2025-04-11T12:08:00"
   },
   {
-    "class": "metal",
+    "class": "paper",
     "timestamp": "2025-04-14T11:14:00"
   },
   {
